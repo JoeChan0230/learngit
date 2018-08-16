@@ -3,3 +3,4 @@ version is 2.0
 create a new branch dev
 create a new branch feature_master
 create a new branch feature1
+manager new branch 1
